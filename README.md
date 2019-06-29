@@ -1,7 +1,8 @@
 # <img src="https://cdn6.aptoide.com/imgs/e/2/4/e246ae543ee186ef9ee21fa0be63e825_icon.png?w=240" width="60px" align="center" alt="Undertale"/> Deltarune Soundtrack
-Official Deltarune soundtrack
 
-<p style="color: red">Test</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Ski_trail_rating_symbol-green_circle.svg" width="25px" align="center"/> All is well! <i>(updated 28.06.2019)</i>
+
+Official Deltarune soundtrack
 
 This is the official soundtrack that was bought and merged here.
 Undertale Soundtrack is available [HERE](https://github.com/FlyCod3R/undertalesoundtrack).
