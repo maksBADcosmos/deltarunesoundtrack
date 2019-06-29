@@ -1,7 +1,7 @@
 # <img src="https://cdn6.aptoide.com/imgs/e/2/4/e246ae543ee186ef9ee21fa0be63e825_icon.png?w=240" width="60px" align="center" alt="Undertale"/> Deltarune Soundtrack
 Official Deltarune soundtrack
 
-<h1>Test</h1>
+<p>Test</p>
 
 This is the official soundtrack that was bought and merged here.
 Undertale Soundtrack is available [HERE](https://github.com/FlyCod3R/undertalesoundtrack).
