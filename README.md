@@ -8,7 +8,7 @@ Undertale Soundtrack is available [HERE](https://github.com/FlyCod3R/undertaleso
 
 ---
 
-## Links
+## <img src="https://cdn6.aptoide.com/imgs/e/2/4/e246ae543ee186ef9ee21fa0be63e825_icon.png?w=240" width="60px" align="center" alt="Undertale"/> Deltarune Soundtrack
 [Spotify](https://open.spotify.com/album/6putGW0KxGMrgTZzplp2pF) •
 [Bandcamp](https://tobyfox.bandcamp.com/album/deltarune-chapter-1-ost) •
 [Apple Music](https://music.apple.com/us/album/deltarune-chapter-1-original-game-soundtrack/1443475587) •
